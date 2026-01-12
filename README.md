@@ -5,3 +5,6 @@ A port of an OCaml implementation to C. This project is an attempt to practicall
 ## To-Do List
 - Make the program viable for messages of any length.
 - Implement an RSA-AES hybrid (encrypt message with AES, encrypt AES key with RSA).
+
+
+This is an educational implementation. Do not use for production security.
